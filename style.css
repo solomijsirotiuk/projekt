@@ -1,0 +1,402 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f3f8f8;
+
+}
+    
+
+.wrapper{
+    width: 1280px;
+    height: 8000px;
+    margin: 0 auto;
+    border: 2px solid;
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+/*Header хедер*/
+
+
+
+.image_logo{
+width: 88px;
+height: 80px;
+margin-left: 32px;
+}
+.list_menu{
+    font-size: 24px;
+    font-weight: 500px;
+    display: flex;
+    margin-top: -80px;
+    margin-left: 226px;
+}
+.header{
+    display: flex;
+    
+    margin-top: 16px;
+    margin-left: 32px;
+}
+li{
+    display: inline;
+}
+.Shop{
+    margin-left: 56px;
+}
+.Contact{
+    margin-left: 56px;
+}
+.Master_class{
+    margin-left: 56px;
+}
+.profile{
+    margin-left: 214px;
+    margin-top: 24px;
+}
+.bei{
+    margin-top: -40px;
+    margin-left: 262px;
+}
+.heading{
+    font-size: 104px;
+    font-weight: 600;
+    margin-top: 94px;
+}
+.h{
+display: flex;
+
+margin-left: 94px;
+}
+.ceramics{
+   margin-left: 16px;
+margin-bottom: 8px;
+}
+.hand{
+display: flex;
+margin-left: 361.5px;
+margin-bottom: 8px;
+width: 200px;
+height: 104px;
+}
+.made{
+    display: flex;
+    margin-left: 360.5px;
+    width: 214px;
+    height: 104px;
+ 
+    }
+.btn{margin-left: 504px;
+    margin-top: 80px;
+    width: 272px;
+    display: flex;
+ text-align: center;
+ padding-top: 16px;
+ padding-bottom: 16px;
+    border: solid 2px black;
+}
+.image_arrow{
+    margin-left: 40px;
+}
+
+
+
+/*top_seller*/
+
+.conteiner_2{
+    background-color: #F0EDE8;
+    height: 720px;
+    margin-top: 174px;
+display: flex;
+    
+}
+.image_seller{
+    margin-left: 123px;
+    margin-top: 80px;
+}
+.top_seller{
+    margin-left: 32px;
+    margin-top: 80px;
+}
+.image_seller_1{
+    margin-left: 40px;
+    margin-top: 120px;
+}
+.name_contents{
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.contents{
+    width: 274px;
+    height: 72px;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 16px;
+}
+.contents_1{
+    font-size: 18px;
+    font-weight: 400;
+    width: 274px;
+    height: 96px;
+}
+.btn_arrow{
+    display: flex;
+margin-top: 224px;
+}
+.border_arrow_1{
+margin-left: 48px;
+    padding: 16px 16px;
+    border: 2px solid black;
+}
+.border_arrow{
+    padding: 16px 16px;
+    border: 2px solid black; 
+}
+
+
+
+
+
+/* catalog */
+
+
+
+
+.row_1{
+    display: flex;
+    font-size: 24px;
+    font-weight: 500px;
+    margin-top: 80px; 
+}
+.row_2{
+    display: flex;
+    font-size: 24px;
+    font-weight: 500px; 
+    margin-top: 80px; 
+}
+.row_3{
+    display: flex;
+    font-size: 24px;
+    font-weight: 500px; 
+    margin-top: 80px; 
+}
+.catalog{
+    font-size: 48px;
+    font-weight: 600; 
+    text-align: center;
+}
+.information{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.conteiner_3{
+    margin-left: 31px;
+    margin-top: 167px;
+}
+.block_2{
+    margin-left: 40px;
+}
+.block_4{
+    margin-left: 40px;
+}
+.block_6{
+    margin-left: 40px;
+}
+.button_1{
+padding: 16px;
+background-color: #BFCCD5;
+text-align: center;
+width: 320px;
+margin-left: 108px;
+}
+.button_1 img{
+margin-left: 24px;
+
+}
+.button_3{
+ padding: 16px;
+ background-color: #BFCCD5;
+ text-align: center;
+ width: 320px;
+margin-left: 108px;
+ }
+ .button_3 img{
+margin-left: 24px;   
+ }
+ .button_5{
+padding: 16px;
+ background-color: #BFCCD5;
+text-align: center;
+width: 320px;
+margin-left: 108px;
+}
+.button_5 img{
+margin-left: 24px;
+}
+.button_2{
+padding: 16px;
+background-color: #BFCCD5;
+text-align: center;
+width: 320px;
+margin-left: 108px;
+}
+.button_2 img{
+margin-left: 24px;
+    
+}
+.button_4{
+padding: 16px;
+background-color: #BFCCD5;
+text-align: center;
+width: 320px;
+margin-left: 108px;
+}
+ .button_4 img{
+ margin-left: 24px;    
+}
+.button_6{
+padding: 16px;
+background-color: #BFCCD5;
+text-align: center;
+width: 320px;
+margin-left: 108px;
+}
+ .button_6 img{
+ margin-left: 24px;   
+}
+
+
+/* master class  майстер клас */
+
+
+
+
+/* sale розпродаж */
+.conteiner_5{
+background-color: #F0EDE8;
+height: 720px;
+margin-top: 180px;
+display: flex;}
+
+.image_sale{
+    margin-left: 173.5px;
+    margin-top: 80px;
+    z-index: 2;
+}
+.sale{
+    z-index: 2;
+     margin-left: 40px;
+     margin-top: 80px;
+
+}
+.image_sale_1{
+   margin-right: -123px;
+    margin-top: 120px;
+z-index: 2;
+}
+.name_sale{
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.contents_sale{
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 16px;
+width: 352px;
+height: 72px;
+}
+.btn_arrow_{
+    display: flex;
+margin-top: 336px;
+}
+.border_arrow_1_{
+margin-left: 48px;
+    padding: 16px 16px;
+    border: 2px solid black;
+}
+.border_arrow_{
+    padding: 16px 16px;
+    border: 2px solid black; 
+}
+.lenta{
+    margin-left: 1450px;
+ background-color: #BFCCD5;
+    height: 68px;
+    transform: rotate(17.44deg);
+    width: 40%;
+    color: white;
+    font-size: 38px;
+    position: absolute;
+    z-index: 1;
+    top: 4194px;
+    text-align: center;
+}
+.lenta_1{
+    margin-left: 1450px;
+    background-color: #BFCCD5;
+       height: 68px;
+       transform: rotate(-22.65deg);
+       width: 40%;
+       color: white;
+       font-size: 38px;
+       position: absolute;
+   top: 4527px;
+     text-align: center;
+   }
+
+   /* Про нас about us */
+
+.conteiner_6{
+    margin-top: 319px;
+}
+.name_about_us{
+    font-size: 48px;
+    font-weight: 600; 
+    text-align: center;
+    margin-bottom: 80px;
+    margin-top: 180px;
+
+}
+.text_about_us{
+    width: 557px;
+    height: 72px;
+    font-size: 18px;
+    font-weight: 400; 
+    margin-bottom: 24px;
+
+}
+.text_about_us_1{
+width: 534px;
+height: 96px;
+    font-size: 18px;
+    font-weight: 400; 
+}
+.image_about_us{
+    width: 620px;
+height: 342px;
+
+}
+.content_about_us{
+    margin-top: -342px;
+    margin-left: 660px;
+}
+.button_about_us{
+font-weight: 400;
+font-size: 20px;
+display: flex;
+margin-left: 660px;
+margin-top: 94px;
+}
+.btn_text{
+padding: 16px 48px;
+background: #BFCCD5;
+text-align: center;
+color: #030303;
+}
+ 
